@@ -58,3 +58,22 @@ The main goal is to reduce noise from 60 correlated features while maintaining h
 
 ## Conclusion
 This project demonstrates that **dimensionality reduction via PCA** significantly improves classification performance by removing noisy correlated features. The trained Logistic Regression model achieves high accuracy in detecting underwater mines versus rocks, making it suitable for naval security applications.
+## 📸 ML Screenshots
+
+### Screenshot 1
+<img src="ML_ScreenShots/1.png" alt="Screenshot 1" width="700"/>
+
+### Screenshot 2
+<img src="ML_ScreenShots/2.png" alt="Screenshot 2" width="700"/>
+
+### Screenshot 3
+<img src="ML_ScreenShots/3.png" alt="Screenshot 3" width="700"/>
+
+
+
+
+
+
+
+
+
